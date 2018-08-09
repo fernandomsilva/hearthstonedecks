@@ -3,7 +3,16 @@
 	text-align:center;
 }
 
-.classdecks {
-	font-size:20px;
-	text-align:center;
+#deck-list-div {
+	width: 100%;
+}
+
+.decklist {
+	max-width: 100%;
+	width: auto;
+	height: auto;
+}
+
+.celldecklist {
+	vertical-align: top;
 }
